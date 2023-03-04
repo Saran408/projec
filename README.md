@@ -1,5 +1,5 @@
-## SARAN M
-## 212220230044
+## PRADEEP P S
+## 212220230034
 # <p align='center'>SIRI OR GOOGLE ASSISTANT</p>
 ## PROGRAM
 ```c
